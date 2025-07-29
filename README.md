@@ -65,5 +65,5 @@ aws eks update-kubeconfig --name my-ekscluster
 ````
 **7: Delete EKS Cluster**
 ````
-eksctl delete cluster --name my-ekscluster --region ap-southeast-1
+eksctl delete cluster --name my-ekscluster --region us-east-1
 ````
